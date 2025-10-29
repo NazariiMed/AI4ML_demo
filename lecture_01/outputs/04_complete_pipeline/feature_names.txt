@@ -1,0 +1,8 @@
+layer_height_mm
+print_speed_mm_s
+nozzle_temp_C
+bed_temp_C
+infill_density_pct
+temp_deviation
+temp_ratio
+print_intensity
