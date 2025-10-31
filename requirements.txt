@@ -11,3 +11,7 @@ seaborn>=0.12.0
 # Optional but useful
 joblib>=1.3.0  # For model persistence
 tqdm>=4.65.0   # Progress bars
+torch
+torchvision
+opencv-python
+Pillow
