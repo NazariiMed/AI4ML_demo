@@ -69,8 +69,6 @@ Each script produces:
 - Predicted vs actual plots
 - Feature importance analysis
 
-**Duration:** ~4 minutes
-
 **Dataset:** 150 SLM experiments with 4 process parameters
 
 ---
@@ -88,8 +86,6 @@ Each script produces:
 - Uncertainty map showing where to sample next
 - Acquisition strategy demonstration
 
-**Duration:** ~4 minutes
-
 **Dataset:** 30 adhesion strength measurements (small dataset!)
 
 ---
@@ -106,8 +102,6 @@ Each script produces:
 - Parameter space exploration visualization
 - Improvement per iteration analysis
 - Final optimal parameters
-
-**Duration:** ~5 minutes
 
 **Dataset:** 4D optimization problem (laser power, speed, hatch spacing, layer thickness)
 

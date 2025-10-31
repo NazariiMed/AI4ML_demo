@@ -73,8 +73,6 @@ Each script produces:
 - Model comparison charts
 - Prediction accuracy visualizations
 
-**Duration:** ~3-4 minutes
-
 ---
 
 ### Demo 2: Unsupervised Clustering
@@ -88,8 +86,6 @@ Each script produces:
 - Elbow method plot
 - PCA visualization of clusters
 - Cluster profile analysis
-
-**Duration:** ~3-4 minutes
 
 ---
 
@@ -107,8 +103,6 @@ Each script produces:
 - Scaling effects
 - Feature summary dashboard
 
-**Duration:** ~3-4 minutes
-
 ---
 
 ### Demo 4: Complete ML Pipeline
@@ -122,8 +116,6 @@ Each script produces:
 - Comprehensive results dashboard
 - Overfitting analysis
 - Trained model files (`.joblib`)
-
-**Duration:** ~4-5 minutes
 
 ## 🎯 Learning Outcomes
 
